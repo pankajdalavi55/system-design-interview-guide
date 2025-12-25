@@ -410,6 +410,7 @@ X-RateLimit-Reset: 1640000000
 
 ```
 RATE LIMITING
+Rate limiting controls how many requests a client can make in a time window.
 
 ALGORITHMS:
 Token Bucket: Allows bursts, common choice
@@ -1442,3 +1443,4 @@ Mobile App ← REST API
 | Senior (L5) | Know all building blocks, make reasonable choices |
 | Staff (L6) | Deep understanding of trade-offs, can justify decisions |
 | Principal (L7) | Can challenge conventional wisdom, knows edge cases |
+
